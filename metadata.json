@@ -1,0 +1,6 @@
+{
+  "name": "Minimal Notes",
+  "description": "A production-grade, highly polished, minimalist notes app featuring folder organization, biometric lock, Markdown preview, search, export/import backups, and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
